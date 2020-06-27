@@ -1,0 +1,22 @@
+package epam.Prasanthi_Guntupalli_LambdasAndStreams;
+
+import java.util.*;
+import java.io.*;
+import java.util.stream.IntStream;
+
+public class ListAverage
+{
+    public static void main(String args[])
+    {
+        IntStream listStream=IntStream.range(7,27);
+        OptionalDouble optionalDouble=listStream.average();
+        if(optionalDouble.isPresent())
+        {
+            System.out.println("Average is: "+optionalDouble.getAsDouble());
+        }
+        else
+        {
+            System.out.println("Try again!");
+        }
+    }
+}

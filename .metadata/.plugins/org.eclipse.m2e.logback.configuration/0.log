@@ -1,0 +1,70 @@
+2020-06-27 17:46:03,396 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-27 17:50:06,137 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\pom.xml
+2020-06-27 17:50:19,074 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam:Prasanthi_Guntupalli_LambdasAndStreams:0.0.1-SNAPSHOT @ C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\pom.xml.
+2020-06-27 17:50:23,292 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Prasanthi_Guntupalli_LambdasAndStreams/src/main/java
+2020-06-27 17:50:23,312 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Prasanthi_Guntupalli_LambdasAndStreams/src/test/java
+2020-06-27 17:50:26,097 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2020-06-27 17:50:27,185 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:50:27,186 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:50:27,189 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:50:27,189 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:51:15,751 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:51:15,751 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:51:15,754 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:51:15,755 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:51:24,971 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:51:24,972 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:51:24,983 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:51:24,983 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:52:24,144 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:52:24,144 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:52:24,159 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:52:24,171 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:52:31,693 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:52:31,693 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:52:31,707 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:52:31,720 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:53:01,206 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:53:01,207 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:53:01,230 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:53:01,245 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:53:29,746 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:53:29,746 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:53:29,785 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:53:29,798 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:53:45,155 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:53:45,156 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:53:45,169 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:53:45,177 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:54:30,150 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:54:30,151 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:54:30,177 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:54:30,222 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:55:02,000 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:55:02,001 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:55:02,016 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:55:02,024 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:56:19,331 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:56:19,331 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:56:19,348 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:56:19,362 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:56:53,520 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:56:53,521 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:56:53,535 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:56:53,544 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:58:35,369 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:58:35,370 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:58:35,388 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:58:35,402 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:58:56,550 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:58:56,550 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:58:56,567 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:58:56,581 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 17:59:41,656 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:59:41,656 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 17:59:41,675 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 17:59:41,692 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
+2020-06-27 18:00:41,596 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 18:00:41,597 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\main\resources
+2020-06-27 18:00:41,626 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 18:00:41,646 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prasanthi\epam-ht\ht11\Prasanthi_Guntupalli_LambdasAndStreams\src\test\resources
